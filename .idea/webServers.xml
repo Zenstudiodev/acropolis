@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4db7d6d4-7e45-4b25-91bf-b2e36889237f" name="zen" url="http://192.232.222.255">
+        <fileTransfer host="192.232.222.255" port="21" rootFolder="/acropolis">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
