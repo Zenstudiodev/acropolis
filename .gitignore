@@ -11,17 +11,19 @@ wp-content/mu-plugins/
 wp-content/wp-cache-config.php
 wp-content/plugins/hello.php
 
-/.htaccess
-/license.txt
-/readme.html
-/sitemap.xml
-/sitemap.xml.gz
+#npm ignore
+wp-content/themes/acropolis/node_modueles/*
+
+#/.htaccess
+#/license.txt
+#/readme.html
+#/sitemap.xml
+#/sitemap.xml.gz
 
 # IDE Files
-#-------------------------
-/nbproject/
+#-------------------------ç
+
 .idea/*
 
 
-#npm ignore
-wp-content/themes/acropolis/node_modueles
+
