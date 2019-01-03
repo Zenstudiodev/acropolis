@@ -21,8 +21,7 @@ wp-content/themes/acropolis/node_modueles/*
 #/sitemap.xml.gz
 
 # IDE Files
-#-------------------------ç
-
+#-------------------------
 .idea/*
 
 

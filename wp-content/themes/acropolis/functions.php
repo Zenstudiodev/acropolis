@@ -120,6 +120,11 @@ add_action( 'widgets_init', 'acropolis_widgets_init' );
  * Enqueue scripts and styles.
  */
 function acropolis_scripts() {
+
+
+
+    wp_enqueue_style( 'font awsome', 'https://use.fontawesome.com/releases/v5.6.1/css/all.css' );
+    wp_enqueue_style( 'boostrap', 'https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css' );
 	wp_enqueue_style( 'acropolis-style', get_stylesheet_uri() );
 
 	wp_enqueue_script( 'acropolis-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20151215', true );

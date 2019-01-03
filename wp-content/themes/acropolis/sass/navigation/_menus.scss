@@ -1,8 +1,10 @@
 .main-navigation {
 	clear: both;
-	display: block;
-	float: left;
+	display: flex;
+	background: $azul;
 	width: 100%;
+	height: 100%;
+	flex-direction: column;
 
 	ul {
 		display: none;
@@ -50,8 +52,10 @@
 	}
 
 	li {
-		float: left;
-		position: relative;
+		display: flex;
+		border-bottom: #fff solid 2px;
+		flex-grow: 1;
+		padding: 10px 5px;
 
 		&:hover > a,
 		&.focus > a {
@@ -61,6 +65,10 @@
 	a {
 		display: block;
 		text-decoration: none;
+		color: #fff;
+		font-weight: bolder;
+		font-family: $avenir-bold;
+		font-size: 1rem;
 	}
 
 	.current_page_item > a,
@@ -81,7 +89,8 @@
 		display: none;
 	}
 	.main-navigation ul {
-		display: block;
+		display: flex;
+		flex-direction: column;
 	}
 }
 

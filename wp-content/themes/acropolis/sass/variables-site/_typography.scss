@@ -1,5 +1,41 @@
+//Avenir start
+@font-face {
+  font-family: 'Avenir Next LT Pro Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Avenir Next LT Pro Regular'), url('/wp-content/themes/acropolis/fonts/AvenirNextLTPro-Regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'Avenir Next LT Pro Medium Condensed';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Avenir Next LT Pro Medium Condensed'), url('/wp-content/themes/acropolis/fonts/AvenirNextLTPro-MediumCn.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Avenir Next LT Pro Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Avenir Next LT Pro Bold'), url('/wp-content/themes/acropolis/fonts/AvenirNextLTPro-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Avenir Next LT Pro Heavy Condensed';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Avenir Next LT Pro Heavy Condensed'), url('/wp-content/themes/acropolis/fonts/AvenirNextLTPro-HeavyCn.woff') format('woff');
+}
+
+
+//avenir end
+
 $font__main: sans-serif;
 $font__code: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
 $font__pre: "Courier 10 Pitch", Courier, monospace;
 $font__line-height-body: 1.5;
 $font__line-height-pre: 1.6;
+
+$avenir: 'Avenir Next LT Pro Regular';
+$avenir-medium: 'Avenir Next LT Pro Medium Condensed';
+$avenir-bold: 'Avenir Next LT Pro Bold';
+$avenir-heavy:'Avenir Next LT Pro Heavy Condensed';

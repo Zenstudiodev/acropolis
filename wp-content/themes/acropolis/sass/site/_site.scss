@@ -1,12 +1,103 @@
 // @import "../layout/content-sidebar";
 // @import "../layout/sidebar-content";
-
 /*--------------------------------------------------------------
 ## Posts and pages
 --------------------------------------------------------------*/
 @import "primary/posts-and-pages";
-
 /*--------------------------------------------------------------
 ## Comments
 --------------------------------------------------------------*/
 @import "primary/comments";
+
+#top_info {
+  background: $corinto;
+  color: #fff;
+  height: 50px;
+  font-size: 15pt;
+  .container{
+    height: inherit;
+    .row{
+      height: inherit;
+      .top_header_info{
+        height: 25px;
+      }
+    }
+  }
+
+}
+p{
+  text-align: justify;
+}
+
+div#logo_main {
+  width: 250px;
+  margin: 10px auto;
+}
+div#logo_home {
+  max-width: 250px;
+  margin: 0 auto;
+}
+h3 {
+  font-family: $avenir-bold;
+  color: $azul;
+}
+.corinto_bg{
+  background: $corinto_oscuro;
+}
+.amarillo_bg{
+  background: $amarillo;
+}
+.amarillo_palido_bg{
+  background: $amarillo_palido;
+}
+.azul_bg{
+  background: $azul;
+}
+#vision_mision {
+  color: #fff;
+  font-family: $avenir;
+  h4{
+    text-align: center;
+  }
+  h3{
+    color: #fff;
+  }
+  p{
+    text-align: justify;
+  }
+  .row {
+    .col-md-6, .col-md-8{
+      padding: 30px;
+    }
+  }
+}
+
+
+footer#colophon {
+  border-top: #e8e8e8 solid 1px;
+  padding-top: 10px;
+  h3 {
+    text-decoration: underline;
+  }
+}
+div#logo_footer {
+  max-width: 160px;
+  margin: 0 auto;
+}
+.footer_info {
+  color: #B8B8B8;
+  font-family: $avenir-bold;
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+//post
+
+h2.entry-title{
+  font-family: $avenir-bold;
+  color: $azul;
+}
+a.post-thumbnail{
+  width: 70%;
+  margin: 0 auto;
+}
