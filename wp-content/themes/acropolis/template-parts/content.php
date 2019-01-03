@@ -22,8 +22,8 @@
 			?>
 			<div class="entry-meta">
 				<?php
-				acropolis_posted_on();
-				acropolis_posted_by();
+				//acropolis_posted_on();
+				//acropolis_posted_by();
 				?>
 			</div><!-- .entry-meta -->
 		<?php endif; ?>
