@@ -1,40 +1,79 @@
 <div class="container">
-    <div class="row">
-        <div class="col-md-8">
-            <h3>BIENVENIDO</h3>
-            <p>Gracias por tomarse el tiempo para visitar nuestra pagina. Queremos estar a la vanguardia de la tecnologia en educación y por ello la hemos creado. Nuestro objetivo es mantener una comunicación constante con los padres de familia y de igual manera que puedan consultar nuestras actividades, verificar las tareas diarias así como ver las fotografías de los distintos eventos que a lo largo del ciclo escolar vamos desarrollando, como un apoyo a nuestra labor docente.  Es nuestro mejor deseo que  la pagina les sea de utilidad y les animamos a que vean las fotos y videoclips que aqui presentamos.
+    <div class="row extracurricular   animated fadeInUp">
+        <div class="col-md-9">
+            <h2>Campamento</h2>
+            <p>
+                El campamento es muy importante porque se llenan las áreas prácticas. Y se cubre la zona del primer bimestre en las principales áreas además de recreación el campamento es formativo e instructivo. Es una de las actividades que mas gozan en el año.
             </p>
-            <p>Para comenzar queremos darles a conocer nuestra VISION Y MISION acompañando un pequeño resumen histórico de nuestra prestigiosa institución educativa. </p>
         </div>
-        <div class="col-md-4">
-            <div id="logo_home">
-                <img src="/wp-content/uploads/2018/12/logp_content.png">
-            </div>
-        </div>
+        <div class="col-md-3"><img class="" src="/wp-content/uploads/2018/12/IMG_2795-e1545271030627.jpg"></div>
     </div>
-</div>
-<div class="container-fluid" id="vision_mision">
-    <div class="row">
-        <div class="col-md-6 corinto_bg">
-            <h4>VISIÓN</h4>
-            <p>Promover la excelencia académica en la formación de nuestros estudiantes, capacitándolos altamente, para que puedan desenvolverse en una sociedad que está constantemente en desarrollo.  Nuestros  educadores están continuamente en un proceso de actualización, lo que nos permite lograr este objetivo.</p>
-            <p>Pretendemos promover en nuestros alumnos el hábito de la investigación y el estudio en las diferentes áreas,   contribuyendo al  desarrollo de nuevas tecnologías en apoyo a la educación.</p>
-
-
+    <div class="row extracurricular   animated fadeInUp">
+        <div class="col-md-9">
+            <h2>Dia de la madre</h2>
+            Formamos en los alumnos, el valor del amor filial que todo niño debe de tener a su madre y se ofrece un desayuno y se festeja a las madrecitas en su día con la participación de todos nuestros alumnos.
         </div>
-        <div class="col-md-6 amarillo_bg">
-            <h4>MISIÓN </h4>
-            <p>Nuestra Misión es formar alumnos con excelencia académica y con alto espíritu de justicia, valores humanos y éticos, para que al egresar del colegio, los puedan poner al servicio de nuestra sociedad.</p>
-            <p>Somos una institución educativa, que promueve el uso de la ciencia y la tecnología como herramientas para el desarrollo.</p>
-        </div>
+        <div class="col-md-3"><img class="" src="/wp-content/uploads/2019/01/dia-de-las-madres.jpg"></div>
     </div>
-    <div class="row">
-        <div class="col-md-8 azul_bg">
-            <h3>HISTORIA</h3>
-            <p>Centro Educativo Acropolis, fue creado, en el año de 1,975 ,Al inicio, se llamó Colegio Bilingüe Mundo Infantil, pero en el año 1995, al ampliar sus servicios educativos, se decidió cambiar su nombre para convertirse en lo que hoy es Centro Educativo Acropolis. En la actualidad cuenta ya con más de 30 años de experiencia, prestando servicios educativos a la niñez y juventud guatemalteca. La ideología de la Licda. Ortega para la institución es contribuir a la formación de ciudadanos ejemplares y éxitos, a través de los métodos de enseñanza más modernos y actualizados. Actualmente el colegio cuenta con laboratorio de computación, gimnasio de karate, salón de pintura y, oportunamente contaremos con sala de proyecciones multimedia y laboratorios de física, química y ciencias naturales. Para quienes no nos conocen, Les invitamos a que den un vistazo a  nuestras instalaciones.</p>
+    <div class="row extracurricular   animated fadeInUp">
+        <div class="col-md-9">
+            <h2>Carnaval</h2>
+            Se celebra dentro del establecimiento con los alumnos de preprimaria y primaria otorgando premio a los mejores disfraces enseñándoles a jugar en carnaval correctamente. Compartiendo con sus compañeros.
         </div>
-        <div class="col-md-4 amarillo_palido_bg">
-            <img src="/wp-content/uploads/2018/12/home_img.jpg">
+        <div class="col-md-3"><img class="" src="/wp-content/uploads/2019/01/carnaval-2018.jpg"></div>
+    </div>
+    <div class="row extracurricular   animated fadeInUp ">
+        <div class="col-md-9">
+            <h2>Elecciones estudiantiles</h2>
+            Se elige el presidente del colegio de acuerdo a los requerimientos del ministerio de educación promoviendo el liderazgo en nuestros alumnos donde los candidatos presentan su plan de gobierno escolar en el cual solicitan a dirección las mejoras o actividades que ellos consideran serán en beneficio de su año escolar fundando cada grado participante su partido político el cual promueven meetings escolares para la elección del presidente.
         </div>
+        <div class="col-md-3"><img class="" src=/wp-content/uploads/2019/01/elecciones-2018.jpg"></div>
+    </div>
+    <div class="row extracurricular   animated fadeInUp">
+        <div class="col-md-9">
+            <h2>Kermese</h2>
+            Se lleva acabo para hacer fondos que se invierten en mejoras del establecimiento. Participando todos los alumnos y alumnas de la actividad, disfrutando de diferentes juegos y actividades que se desarrollan.
+        </div>
+        <div class="col-md-3">img</div>
+    </div>
+    <div class="row extracurricular   animated fadeInUp">
+        <div class="col-md-9">
+            <h2>Conociendo Guatemala</h2>
+            Es una actividad donde cada aula representa los diferentes departamentos de Guatemala, con investigaciones de costumbres trajes bailes comidas y tradiciones de Guatemala. Lo cual permite que los alumnos conozcan junto a los padres de familia nuestra cultura, costumbres y tradiciones.
+
+        </div>
+        <div class="col-md-3">img</div>
+    </div>
+    <div class="row extracurricular   animated fadeInUp">
+        <div class="col-md-9">
+            <h2>Feria científica</h2>
+            Cada grado desarrolla experimentos científicos eligiendo el mejor de cada clase para promover en los alumnos el interés en el funcionamiento de las diferentes leyes de la naturaleza aplicando el método científico en sus diferentes fases. Presentando los resultados a los padres de familia en una sesión especial.
+
+        </div>
+        <div class="col-md-3"><img class="" src="/wp-content/uploads/2019/01/feria-cientiica-2018.jpg"></div>
+    </div>
+    <div class="row extracurricular   animated fadeInUp">
+        <div class="col-md-9">
+            <h2>Proyecto de vida</h2>
+            Es parte del seminario que se presenta en 5to bachillerato el cual elaboraran los graduandos del colegio
+
+        </div>
+        <div class="col-md-3"><img class="" src="/wp-content/uploads/2019/01/proyecto-de-vida.jpg"></div>
+    </div>
+    <div class="row extracurricular   animated fadeInUp">
+        <div class="col-md-9">
+            <h2>Teatro</h2>
+            Al recibir teatro durante todo el año junto con la clase de danza como examen final presenta una obra teatral y bailes sobre el tema desarrollado en la clausura, dicha actividad se presenta en el teatro de Don Juán
+
+        </div>
+        <div class="col-md-3"><img class="" src="/wp-content/uploads/2019/01/teatro.jpg"></div>
+    </div>
+    <div class="row extracurricular   animated fadeInUp">
+        <div class="col-md-9">
+            <h2>Tarde cultural de fin de ciclo</h2>
+            Se lleva acabo en el teatro Don Juán se premian a los alumnos y a los padres que colaboraron en las diferentes actividades del colegio y se presentan segmentos de las mismas.
+
+        </div>
+        <div class="col-md-3"><img class="" src="/wp-content/uploads/2019/01/clausura.jpg"></div>
     </div>
 </div>

@@ -101,3 +101,77 @@ a.post-thumbnail{
   width: 70%;
   margin: 0 auto;
 }
+
+blockquote {
+  margin: 0 1.5em;
+  color: black;
+  border-left: $corinto_oscuro solid;
+  padding-left: 10px;
+}
+//fomrmularios
+.formulario{
+  h1,h2,h3,h4{
+    color: #000;
+  }
+  label{
+    color: #000;
+  }
+}
+
+//extracurricular
+.extracurricular {
+  margin-bottom: 10px;
+  box-shadow: rgba(0, 0, 0, 0.3) -7px 4px 7px
+}
+
+
+
+
+
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) {
+  #top_info {
+    height: 75px;
+    font-size: 10pt;
+  }
+  div#logo_main {
+    width: 150px;
+  }
+  p{
+    text-align: justify;
+  }
+  input{
+    width: 100%;
+  }
+}
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) {  }
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) {  }
+
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) {}
+
+
+
+// Extra large devices (large desktops)
+// No media query since the extra-large breakpoint has no upper bound on its width
+
+//responsive
+// Extra small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {  }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {  }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {  }

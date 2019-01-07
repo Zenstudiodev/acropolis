@@ -1,8 +1,29 @@
 .widget {
-	margin: 0 0 1.5em;
+	margin: 10px 0px 0 0.5em;
+	background: $amarillo_palido;
+	padding: 8px;
+	border-radius: 13px;
 
 	/* Make sure select elements fit in widgets. */
 	select {
 		max-width: 100%;
+	}
+	h2.widget-title{
+		text-transform: uppercase;
+		color:#fff;
+	}
+
+
+}
+.widget_recent_entries{
+	ul{
+		list-style: none;
+		li{
+			margin: 0 0 8px 0;
+			a{
+				color: #fff;
+				border-bottom: solid 1px;
+			}
+		}
 	}
 }

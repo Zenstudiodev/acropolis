@@ -35,7 +35,7 @@
                         <i class="fas fa-phone"></i> 2336-0138
                     </div>
                     <div class="col-md-6 top_header_info">
-                        <i class="fas fa-map-marker"></i> Jardines de la asuncion, 41 avenida 13 - 98 zona 5
+                        <i class="fas fa-map-marker"></i> 41 avenida 13 - 98 zona 5. Jardines de la asunción
                     </div>
                     <div class="col-md-4 top_header_info">
                         <i class="fas fa-envelope"></i> info@centroeducativoacropolis.com

@@ -23,6 +23,5 @@ wp-content/themes/acropolis/node_modueles/*
 # IDE Files
 #-------------------------
 .idea/*
-
-
+.idea/workspace.xml
 
